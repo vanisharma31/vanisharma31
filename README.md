@@ -14,6 +14,6 @@ Language: SQL, Python
 Database: Google BigQuery, PostgreSQL, MySQL
 Visualization: Tableau, Looker Studio
 
-#👋🏻 Connect with Me
+# 👋🏻 Connect with Me
 📧 vanisharma2014@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vani-sharma-82a790221/)
