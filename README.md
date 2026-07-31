@@ -6,10 +6,10 @@ I'm Vani Sharma. A Data Analyst with a strong foundation in Mathematics and a pa
 - 🧩 Translate business questions into data-driven solutions.
 - 📖 Present findings through clear visualizations and data storytelling.
 
-###📚 Projects
+### 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
-###🛠️ Tools
+### 🛠️ Tools
 Language: SQL, Python
 Database: Google BigQuery, PostgreSQL, MySQL
 Visualization: Tableau, Looker Studio
