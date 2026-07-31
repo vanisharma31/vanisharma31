@@ -9,7 +9,7 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 - 📊 Build end-to-end analytics projects using SQL, Python, Excel, and Power BI.
 - 📈 Analyze data to uncover trends, patterns, and business insights.
 - 🧩 Present findings through interactive dashboards and data storytelling.
-
+<br><br>
 
 ## 📚 Projects
 
