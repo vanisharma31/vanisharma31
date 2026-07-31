@@ -15,6 +15,16 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 - 📖 Present findings through clear visualizations and data storytelling.
 
 
+### 📚 Projects
+
+🚀 Explore my featured data analytics projects below.
+
+- 📊 Sales Performance Dashboard (Power BI)
+- 💳 Financial Transaction Analytics (SQL + Power BI)
+- 📈 Marketing Campaign Analytics *(Coming Soon)*
+- 🏥 Medical Insurance Price Prediction (Python & Machine Learning)
+
+
 ### 💻 Tools & Technologies
 
 
@@ -79,14 +89,6 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 </table>
 
 
-### 📚 Projects
-
-🚀 Explore my featured data analytics projects below.
-
-- 📊 Sales Performance Dashboard (Power BI)
-- 💳 Financial Transaction Analytics (SQL + Power BI)
-- 📈 Marketing Campaign Analytics *(Coming Soon)*
-- 🏥 Medical Insurance Price Prediction (Python & Machine Learning)
 
 
 ## 📫 Connect with Me
