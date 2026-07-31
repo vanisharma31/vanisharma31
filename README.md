@@ -82,7 +82,6 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 
 </tr>
 </table>
-
 <br><br>
 
 ## 📜 Certifications
