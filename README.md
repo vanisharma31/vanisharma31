@@ -15,7 +15,7 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 - 📖 Present findings through clear visualizations and data storytelling.
 
 
-### 📚 Projects
+## 📚 Projects
 
 🚀 Explore my featured data analytics projects below.
 
@@ -25,7 +25,7 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 - 🏥 Medical Insurance Price Prediction (Python & Machine Learning)
 
 
-### 💻 Tools & Technologies
+## 💻 Tools & Technologies
 
 
 <table align="center">
