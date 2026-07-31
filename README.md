@@ -4,13 +4,11 @@
   <img src="banner.jpeg" alt="Vani Sharma Banner" width="100%">
 </p>
 
-I'm a Vani Sharma. Data Analyst with a strong foundation in Mathematics and a passion for solving business problems through data. I work across SQL, Python, Power BI and Excel, building analyses that go beyond dashboards to deliver insights that drive informed, data-driven decisions.
+I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a passion for solving business problems through data. I work across SQL, Python, Power BI, and Excel to transform complex datasets into meaningful insights that support better business decisions.
 
-- Turn complex datasets into clear, actionable business insights.
-- Solve analytical problems using SQL, Python, and statistical techniques.
-- Build interactive dashboards and KPI reports for business performance monitoring.
-- Translate business questions into data-driven solutions.
-- Present findings through clear visualizations and data storytelling.
+- 📊 Build end-to-end analytics projects using SQL, Python, Excel, and Power BI.
+- 📈 Analyze data to uncover trends, patterns, and business insights.
+- 🧩 Present findings through interactive dashboards and data storytelling.
 
 
 ## 📚 Projects
