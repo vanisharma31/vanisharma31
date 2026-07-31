@@ -85,6 +85,13 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 
 <br><br>
 
+## 📜 Certifications
+
+<p>
+  🎓 <strong>IBM Data Science Professional Certificate</strong> <br>
+  🎓 <strong>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</strong>
+</p>
+<br><br>
 
 ## 📫 Connect with Me
 
