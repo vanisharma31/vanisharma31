@@ -4,8 +4,6 @@
   <img src="banner.jpeg" alt="Vani Sharma Banner" width="100%">
 </p>
 
-## 👩‍💻 About Me
-
 I'm a Vani Sharma. Data Analyst with a strong foundation in Mathematics** and a passion for solving business problems through data. I work across SQL, Python, Power BI, and Excel, building analyses that go beyond dashboards to deliver insights that drive informed, data-driven decisions.
 
 - Turn complex datasets into clear, actionable business insights.
