@@ -13,7 +13,7 @@ I'm Vani Sharma. A Data Analyst with a strong foundation in Mathematics and a pa
 Welcome to my portfolio, where I showcase my projects.
 
 ## 💻 Tools & Technologies
-
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -69,6 +69,10 @@ Welcome to my portfolio, where I showcase my projects.
     </td>
   </tr>
 </table>
+<br><br>
+
+</div>
+
 
 ### 👋🏻 Connect with Me
 📧 vanisharma2014@gmail.com  
