@@ -18,7 +18,7 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 - Sales Performance Dashboard
 - Financial Transaction Analytics 
 - Medical Insurance Price Prediction 
-
+<br><br>
 
 ## 💻 Tools & Technologies
 
@@ -83,7 +83,7 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 </tr>
 </table>
 
-
+<br><br>
 
 
 ## 📫 Connect with Me
