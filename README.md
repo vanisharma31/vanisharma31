@@ -16,7 +16,7 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 
 ---
 
-## 💻 Tools & Technologies
+### 💻 Tools & Technologies
 
 
 <table align="center">
@@ -80,7 +80,7 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 </table>
 ---
 
-## 📚 Projects
+### 📚 Projects
 
 🚀 Explore my featured data analytics projects below.
 
@@ -93,9 +93,8 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 
 ## 📫 Connect with Me
 
-📧 **Email:** vanisharma2014@gmail.com
+📧 vanisharma2014@gmail.com
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/vani-sharma-82a790221/
+💼 [LinkedIn](https://www.linkedin.com/in/vani-sharma-82a790221/)
 
 ---
