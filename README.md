@@ -14,7 +14,6 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 - 🧩 Translate business questions into data-driven solutions.
 - 📖 Present findings through clear visualizations and data storytelling.
 
----
 
 ### 💻 Tools & Technologies
 
@@ -78,7 +77,7 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 
 </tr>
 </table>
----
+
 
 ### 📚 Projects
 
@@ -89,7 +88,6 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 - 📈 Marketing Campaign Analytics *(Coming Soon)*
 - 🏥 Medical Insurance Price Prediction (Python & Machine Learning)
 
----
 
 ## 📫 Connect with Me
 
@@ -97,4 +95,4 @@ I'm a **Data Analyst** with a strong foundation in **Mathematics** and a passion
 
 💼 [LinkedIn](https://www.linkedin.com/in/vani-sharma-82a790221/)
 
----
+
