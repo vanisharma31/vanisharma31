@@ -147,7 +147,6 @@ Welcome to my portfolio, where I showcase my projects.
 </p>
 
 
-
 ### 👋🏻 Connect with Me
 📧 vanisharma2014@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vani-sharma-82a790221/)
