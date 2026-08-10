@@ -17,7 +17,7 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 
 | No. | Project Name | Features | Technology Stack |
 |---:|---|---|---|
-| 1 | [Financial Transaction Analysis](https://github.com/vanisharma31/financial-transaction-analysis) | Single or two-player turn-based fighting game with rock-paper-scissors style mechanics and customizable HP/attack rates | MySQL, Power BI |
+| 1 | [Financial Transaction Analysis](https://github.com/vanisharma31/financial-transaction-analysis) | Customer transaction analysis with spending trends, customer segmentation, CLV, churn analysis, acquisition tracking, and interactive Power BI dashboards. | MySQL, Power BI |
 | 2 | [EZLOGIC](https://github.com/20100215/EZLOGIC) | Interactive tutorial website for discrete mathematics lessons | HTML, CSS, Bootstrap, JS |
 | 3 | [IP Address Calculator](https://github.com/20100215/Net1-IP-Addressing) | Subnetting, CIDR, VLSM automations | C |
 | 4 | [8 Week SQL Challenge]() | Compilation of case study solutions with practical and complex SQL data manipulation and analysis (Source: [#8WeekSQLChallenge](https://8weeksqlchallenge.com/)) | SQL |
