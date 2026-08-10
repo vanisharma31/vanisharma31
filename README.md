@@ -20,7 +20,7 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 | 1 | e) | Single or two-player turn-based fighting game with rock-paper-scissors style mechanics and customizable HP/attack rates | Visual Basic .NET |
 | 2 | [EZLOGIC](https://github.com/20100215/EZLOGIC) | Interactive tutorial website for discrete mathematics lessons | HTML, CSS, Bootstrap, JS |
 | 3 | [IP Address Calculator](https://github.com/20100215/Net1-IP-Addressing) | Subnetting, CIDR, VLSM automations | C |
-| 4 | [ANYQUIZ](https://github.com/20100215/ANYQUIZ) | Quiz maker and management system with various question types and moderation settings | HTML, CSS, JS, jQuery, PHP, MySQL |
+| 4 | [8 Week SQL Challenge]() | Compilation of case study solutions with practical and complex SQL data manipulation and analysis (Source: [#8WeekSQLChallenge](https://8weeksqlchallenge.com/)) | SQL |
 
 ## 💻 Tools & Technologies
 
