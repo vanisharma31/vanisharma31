@@ -15,10 +15,18 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 
 🚀 Explore my featured data analytics projects below.
 
-- Sales Performance Dashboard
-- Financial Transaction Analytics 
-- Medical Insurance Price Prediction 
-<br><br>
+| No. | Project Name | Features | Technology Stack |
+|---:|---|---|---|
+| 1 | [Battle!](https://github.com/20100215/visual-basic-projects-2016/tree/main/Battle) | Single or two-player turn-based fighting game with rock-paper-scissors style mechanics and customizable HP/attack rates | Visual Basic .NET |
+| 2 | [EZLOGIC](https://github.com/20100215/EZLOGIC) | Interactive tutorial website for discrete mathematics lessons | HTML, CSS, Bootstrap, JS |
+| 3 | [IP Address Calculator](https://github.com/20100215/Net1-IP-Addressing) | Subnetting, CIDR, VLSM automations | C |
+| 4 | [ANYQUIZ](https://github.com/20100215/ANYQUIZ) | Quiz maker and management system with various question types and moderation settings | HTML, CSS, JS, jQuery, PHP, MySQL |
+| 5 | [Inventory System](https://github.com/20100215/Java-Programs) | Simple inventory management application using database and file handling techniques | Java, JSwing GUI |
+| 6 | [Basketball Scoreboard](https://github.com/20100215/Java-Programs) | Scoreboard and timer simulation incorporating Java's multithreading | Java, JSwing GUI |
+| 7 | [Survey Co.](https://github.com/vn-aj-vngrd/survey) | Survey maker and management system | Vue.JS, Laravel |
+| 8 | [Payroll System](https://github.com/20100215/CIS2206PayrollSystem) | Employee attendance and payroll system integrating file handling and data structures | C |
+| 9 | [AutoBar](https://github.com/OG-Habit/AutoBar) | POS + Loyalty Reward system prototype for bar establishments | C#, Xamarin.Forms, MSSQL |
+| 10 | [ChatApp](https://github.com/OG-Habit/ChatApp) | Mobile chat application | C#, Xamarin.Forms, Firebase |
 
 ## 💻 Tools & Technologies
 
