@@ -66,6 +66,11 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 </td>
 
 <td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+<br>Matplotlib
+</td>
+
+<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
 <br>Git
 </td>
