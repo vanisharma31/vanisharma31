@@ -18,7 +18,7 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 | No. | Project Name | Features | Technology Stack |
 |---:|---|---|---|
 | 1 | [Financial Transaction Analysis](https://github.com/vanisharma31/financial-transaction-analysis) | Customer transaction analysis with spending trends, customer segmentation, CLV, churn analysis, acquisition tracking, and interactive Power BI dashboards. | MySQL, Power BI |
-| 2 | [8 Week SQL Challenge]() | Compilation of case study solutions with practical and complex SQL data manipulation and analysis (Source: [#8WeekSQLChallenge](https://8weeksqlchallenge.com/)) | SQL |
+| 2 | [Marketing Campaign Analysis]() | | Python, SQL, Power BI |
 
 ## 💻 Tools & Technologies
 
@@ -79,13 +79,6 @@ I'm Vani Sharma, a Data Analyst with a strong foundation in Mathematics and a pa
 </table>
 <br><br>
 
-## 📜 Certifications
-
-<p>
-  🎓 IBM Data Science Professional Certificate <br>
-  🎓 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-</p>
-<br><br>
 
 ## 📫 Connect with Me
 
